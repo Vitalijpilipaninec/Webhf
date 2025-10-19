@@ -1,0 +1,111 @@
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, #360505 0%, #be2e0a 100%);
+            margin: 0;
+            padding: 20px;
+            min-height: 100vh;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background-color: rgb(0, 0, 0);
+            padding: 50px;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(255, 255, 255, 0.3);
+        }
+        h1 {
+            color: #ffffff;
+            font-size: 3em;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .back-btn {
+            display: inline-block;
+            padding: 20px 35px;
+            background: linear-gradient(45deg, #101213, #27393a);
+            color: rgb(255, 255, 255);
+            text-decoration: none;
+            border-radius: 15px;
+            font-size: 1.5em;
+            font-weight: bold;
+            margin-bottom: 30px;
+            transition: all 0.3s ease;
+        }
+        .back-btn:hover {
+            transform: scale(1.05);
+        }
+        .intro {
+            font-size: 1.8em;
+            text-align: center;
+            line-height: 1.6;
+            margin: 40px 0;
+            color: #ffffff;
+        }
+        .games-section {
+            margin: 50px 0;
+        }
+        h2 {
+            font-size: 2.5em;
+            color: #ffffff;
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        .game {
+            border: 3px solid #3498db;
+            padding: 30px;
+            margin: 30px 0;
+            border-radius: 20px;
+            background: linear-gradient(135deg, #000000, #868080);
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            gap: 30px;
+        }
+        .game:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+        }
+        .game-img {
+            width: 200px;
+            height: 150px;
+            object-fit: cover;
+            border-radius: 15px;
+            border: 3px solid #2980b9;
+        }
+        .game-content {
+            flex: 1;
+        }
+        .game h3 {
+            font-size: 2.2em;
+            color: #ffffff;
+            margin-bottom: 20px;
+        }
+        .game p {
+            font-size: 1.6em;
+            line-height: 1.5;
+            color: #ffffff;
+        }
+        .main-gaming-img {
+            width: 100%;
+            max-width: 600px;
+            height: 300px;
+            object-fit: cover;
+            border-radius: 20px;
+            margin: 30px auto;
+            display: block;
+            border: 5px solid #3498db;
+        }
+        .img-placeholder {
+            width: 100%;
+            max-width: 600px;
+            height: 300px;
+            background: linear-gradient(45deg, #ddd, #eee);
+            border-radius: 20px;
+            margin: 30px auto;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.3em;
+            color: #666;
+            border: 5px dashed #3498db;
+        }
