@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<valorant_jatekosok>
+    <jatekos>
+        <nev>Phoenix</nev>
+        <funkcio>Duelist</funkcio>
+        <nemzetiseg>British</nemzetiseg>
+        <megjelenes_ev>2020</megjelenes_ev>
+        <kedvenc_fegyver>Vandal</kedvenc_fegyver>
+        <ultimate_cselekves>Run It Back</ultimate_cselekves>
+    </jatekos>
+    
+    <jatekos>
+        <nev>Jett</nev>
+        <funkcio>Duelist</funkcio>
+        <nemzetiseg>South Korean</nemzetiseg>
+        <megjelenes_ev>2020</megjelenes_ev>
+        <kedvenc_fegyver>Operator</kedvenc_fegyver>
+        <ultimate_cselekves>Blade Storm</ultimate_cselekves>
+    </jatekos>
+    
+    <jatekos>
+        <nev>Sage</nev>
+        <funkcio>Sentinel</funkcio>
+        <nemzetiseg>Chinese</nemzetiseg>
+        <megjelenes_ev>2020</megjelenes_ev>
+        <kedvenc_fegyver>Guardian</kedvenc_fegyver>
+        <ultimate_cselekves>Resurrection</ultimate_cselekves>
+    </jatekos>
+    
+    <jatekos>
+        <nev>Cypher</nev>
+        <funkcio>Sentinel</funkcio>
+        <nemzetiseg>Moroccan</nemzetiseg>
+        <megjelenes_ev>2020</megjelenes_ev>
+        <kedvenc_fegyver>Spectre</kedvenc_fegyver>
+        <ultimate_cselekves>Neural Theft</ultimate_cselekves>
+    </jatekos>
+    
+    <jatekos>
+        <nev>Brimstone</nev>
+        <funkcio>Controller</funkcio>
+        <nemzetiseg>American</nemzetiseg>
+        <megjelenes_ev>2020</megjelenes_ev>
+        <kedvenc_fegyver>Phantom</kedvenc_fegyver>
+        <ultimate_cselekves>Orbital Strike</ultimate_cselekves>
+    </jatekos>
+    
+    <jatekos>
+        <nev>Viper</nev>
+        <funkcio>Controller</funkcio>
+        <nemzetiseg>American</nemzetiseg>
+        <megjelenes_ev>2020</megjelenes_ev>
+        <kedvenc_fegyver>Sheriff</kedvenc_fegyver>
+        <ultimate_cselekves>Viper's Pit</ultimate_cselekves>
+    </jatekos>
+    
+    <jatekos>
+        <nev>Omen</nev>
+        <funkcio>Controller</funkcio>
+        <nemzetiseg>Unknown</nemzetiseg>
+        <megjelenes_ev>2020</megjelenes_ev>
+        <kedvenc_fegyver>Ghost</kedvenc_fegyver>
+        <ultimate_cselekves>From the Shadows</ultimate_cselekves>
+    </jatekos>
+    
+    <jatekos>
+        <nev>Reyna</nev>
+        <funkcio>Duelist</funkcio>
+        <nemzetiseg>Mexican</nemzetiseg>
+        <megjelenes_ev>2020</megjelenes_ev>
+        <kedvenc_fegyver>Phantom</kedvenc_fegyver>
+        <ultimate_cselekves>Empress</ultimate_cselekves>
+    </jatekos>
+    
+    <jatekos>
+        <nev>Killjoy</nev>
+        <funkcio>Sentinel</funkcio>
+        <nemzetiseg>German</nemzetiseg>
+        <megjelenes_ev>2020</megjelenes_ev>
+        <kedvenc_fegyver>Bulldog</kedvenc_fegyver>
+        <ultimate_cselekves>Lockdown</ultimate_cselekves>
+    </jatekos>
+    
+    <jatekos>
+        <nev>Skye</nev>
+        <funkcio>Initiator</funkcio>
+        <nemzetiseg>Australian</nemzetiseg>
+        <megjelenes_ev>2020</megjelenes_ev>
+        <kedvenc_fegyver>Marshall</kedvenc_fegyver>
+        <ultimate_cselekves>Seekers</ultimate_cselekves>
+    </jatekos>
+    
+    <jatekos>
+        <nev>Yoru</nev>
+        <funkcio>Duelist</funkcio>
+        <nemzetiseg>Japanese</nemzetiseg>
+        <megjelenes_ev>2021</megjelenes_ev>
+        <kedvenc_fegyver>Classic</kedvenc_fegyver>
+        <ultimate_cselekves>Dimensional Drift</ultimate_cselekves>
+    </jatekos>
+    
+    <jatekos>
+        <nev>Astra</nev>
+        <funkcio>Controller</funkcio>
+        <nemzetiseg>Ghanaian</nemzetiseg>
+        <megjelenes_ev>2021</megjelenes_ev>
+        <kedvenc_fegyver>Odin</kedvenc_fegyver>
+        <ultimate_cselekves>Astral Form/Cosmic Divide</ultimate_cselekves>
+    </jatekos>
+    
+    <jatekos>
+        <nev>KAY/O</nev>
+        <funkcio>Initiator</funkcio>
+        <nemzetiseg>Unknown</nemzetiseg>
+        <megjelenes_ev>2021</megjelenes_ev>
+        <kedvenc_fegyver>Frenzy</kedvenc_fegyver>
+        <ultimate_cselekves>NULL/CMD</ultimate_cselekves>
+    </jatekos>
+    
+    <jatekos>
+        <nev>Chamber</nev>
+        <funkcio>Sentinel</funkcio>
+        <nemzetiseg>French</nemzetiseg>
+        <megjelenes_ev>2021</megjelenes_ev>
+        <kedvenc_fegyver>Tour de Force</kedvenc_fegyver>
+        <ultimate_cselekves>Tour de Force</ultimate_cselekves>
+    </jatekos>
+    
+    <jatekos>
+        <nev>Neon</nev>
+        <funkcio>Duelist</funkcio>
+        <nemzetiseg>Filipino</nemzetiseg>
+        <megjelenes_ev>2022</megjelenes_ev>
+        <kedvenc_fegyver>Stinger</kedvenc_fegyver>
+        <ultimate_cselekves>Overdrive</ultimate_cselekves>
+    </jatekos>
+</valorant_jatekosok>
