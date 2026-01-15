@@ -16,10 +16,14 @@ function feldolgoz(xml) {
     var lista = document.getElementById("lista");
     var lista2020 = document.getElementById("lista2020");
     var controllerLista = document.getElementById("controllerLista");
+    var legkevesebbEvTitle = document.getElementById("legkevesebbEvTitle");
+    var legkevesebbEvLista = document.getElementById("legkevesebbEvLista");
     
     lista.innerHTML = "";
     lista2020.innerHTML = "";
     controllerLista.innerHTML = "";
+    legkevesebbEvTitle.innerHTML = "";
+    legkevesebbEvLista.innerHTML = "";
     
     var evSzamlalo = {};
     
@@ -64,11 +68,7 @@ function feldolgoz(xml) {
     }
     
     if (legkevesebbEv != "") {
-        var legkevesebbDiv = document.createElement("div");
-        legkevesebbDiv.innerHTML = "<h3>" + legkevesebbEv + " évben jelent meg a legkevesebb játékos</h3>";
-        legkevesebbDiv.innerHTML += "<p>Ebben az évben ezek a játékosok jelentek meg:</p>";
-        
-        var ul = document.createElement("ul");
+        legkevesebbEvTitle.innerHTML = legkevesebbEv + " évben jelent meg a legkevesebb játékos";
         
         for (var i = 0; i < jatekosok.length; i++) {
             var nev = jatekosok[i].getElementsByTagName("nev")[0].textContent;
@@ -77,11 +77,8 @@ function feldolgoz(xml) {
             if (ev == legkevesebbEv) {
                 var li = document.createElement("li");
                 li.textContent = nev;
-                ul.appendChild(li);
+                legkevesebbEvLista.appendChild(li);
             }
         }
-        
-        legkevesebbDiv.appendChild(ul);
-        document.body.appendChild(legkevesebbDiv);
     }
 }
