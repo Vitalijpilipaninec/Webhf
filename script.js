@@ -35,7 +35,7 @@ function feldolgoz(xml) {
         var fegyver = jatekosok[i].getElementsByTagName("kedvenc_fegyver")[0].textContent;
         
         var li = document.createElement("li");
-        li.textContent = nev + " - " + funkcio + " - " + nemzetiseg + " (" + ev + ")";
+        li.textContent = nev + " - " + funkcio + " - " + nemzetiseg + " - " + ev;
         lista.appendChild(li);
         
         if (ev == "2020") {
@@ -82,3 +82,4 @@ function feldolgoz(xml) {
         }
     }
 }
+
